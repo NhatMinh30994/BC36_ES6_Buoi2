@@ -61,3 +61,17 @@ body{
 #glasses{
     transition: all 0.5s;
 }
+/* ========= */
+.priceGlass{
+    background-color: rgb(255, 30, 0);
+    padding: 5px 10px;
+    display: inline-block;
+    border-radius: 5px;
+}
+
+.statusGlass{
+    color: green;
+    display: inline-block;
+    font-weight: bold;
+    margin-left: 15px;
+}
